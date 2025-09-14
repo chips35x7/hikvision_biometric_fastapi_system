@@ -74,9 +74,3 @@ Prototype phase incomplete and still in development.
 Reference version archived: `biometric-php-python-prototype-archived/`
 
 ---
-
-📞 Contact
-
-Developed by: Nigel Chiputura  
-Location: Marondera, Zimbabwe  
-Portfolio: www.nigelchiputura.dev
