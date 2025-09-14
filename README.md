@@ -74,3 +74,5 @@ Prototype phase incomplete and still in development.
 Reference version archived: `biometric-php-python-prototype-archived/`
 
 ---
+Check Out My Porfolio at www.nigelchiputura.dev
+Free Apps & Games at www.nigelchiputura.dev/download
