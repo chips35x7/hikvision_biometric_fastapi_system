@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subscription xmlns="http://www.hikvision.com/ver10/XMLSchema">
+    <eventType>All</eventType>
+    <addressingMode>ipaddress</addressingMode>
+    <ipAddress>192.168.1.38</ipAddress>
+    <portNo>80</portNo>
+    <protocolType>HTTP</protocolType>
+    <parameterFormatType>XML</parameterFormatType>
+    <userName>admin</userName>
+    <password>zchpc1234</password>
+    <timeOut>60</timeOut>
+    <hostAddress>http://192.168.1.38:80/fingerprint-event</hostAddress>
+</Subscription>

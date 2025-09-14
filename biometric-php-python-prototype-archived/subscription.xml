@@ -1,0 +1,9 @@
+<HttpHostNotification>
+    <id>1</id>
+    <url>http://192.168.1.38/log_system.php</url>
+    <protocolType>HTTP</protocolType>
+    <parameterFormatType>JSON</parameterFormatType>
+    <httpAuthenticationMethod>digest</httpAuthenticationMethod>
+    <userName>admin</userName>
+    <password>zchpc1234</password>
+</HttpHostNotification>

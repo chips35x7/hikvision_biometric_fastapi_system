@@ -1,0 +1,37 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Chipo",
+    "department": "Finance",
+    "timestamp": "2025-09-04 08:02:15",
+    "status": "Clock-In"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Brian Nyasha",
+    "department": "IT",
+    "timestamp": "2025-09-04 08:10:44",
+    "status": "Clock-In"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Chiedza Moyo",
+    "department": "HR",
+    "timestamp": "2025-09-04 08:15:03",
+    "status": "Clock-In"
+  },
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Chipo",
+    "department": "Finance",
+    "timestamp": "2025-09-04 17:04:50",
+    "status": "Clock-Out"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Brian Nyasha",
+    "department": "IT",
+    "timestamp": "2025-09-04 17:25:17",
+    "status": "Clock-Out"
+  }
+]
